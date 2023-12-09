@@ -1,0 +1,4 @@
+#omitir estos archivos de imagenes
+/node_modules
+
+/.secrets/*
